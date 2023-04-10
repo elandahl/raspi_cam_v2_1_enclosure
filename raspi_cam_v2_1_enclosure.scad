@@ -1,7 +1,7 @@
 // Parameters for Raspberry Pi Camera V2.1
 camera_width = 25;
 camera_height = 24;
-camera_thickness = 9;
+camera_thickness = 9+2;
 
 // Enclosure Parameters
 enclosure_wall_thickness = 7;
